@@ -3,6 +3,7 @@
 # create navbar
 using flex 
 # create section loading 
+![image alt](https://github.com/mahmoud-saber/portfolio/blob/a8d750dd9ac2ca57e6429232befaa99a621b335a/loading.png)
 # create section About
 ![image alt](https://github.com/mahmoud-saber/portfolio/blob/0d1923ef58b044cc606238e8b6a65d86243fd312/about.png)
 image 
