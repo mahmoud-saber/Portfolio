@@ -2,16 +2,16 @@
 # create header
 # create navbar
 using flex 
-# create sction loading 
+# create section loading 
 # create section
 image 
-descriptin information aabout yourself
-# create section Skillss
+Description information about yourself
+# create section Skills
 using grid 
 # create section Projects
 title of project
-description of project
-linls of projects
+Description of project
+links of projects
 
 # section Contact
 name 
