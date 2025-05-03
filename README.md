@@ -1,5 +1,4 @@
 # Portfolio
-[image alt](https://github.com/mahmoud-saber/portfolio/blob/72bb7a675c2f38acbc9ad2562421c5e2d8269231/project.png)
 # create header
 # create navbar
 using flex 
@@ -12,7 +11,9 @@ using grid
 # create section Projects
 title of project
 Description of project
-links of projects
+links to projects
+![image alt]([image alt](https://github.com/mahmoud-saber/portfolio/blob/72bb7a675c2f38acbc9ad2562421c5e2d8269231/project.png)
+)
 
 # section Contact
 name 
